@@ -1,4 +1,4 @@
-###Fazer a soma dos n termos ímpares ,usando Loop for ,sem usar lista, funções permitidas:input,int,print e range
+Fazer a soma dos n termos ímpares ,usando Loop for ,sem usar lista, funções permitidas:input,int,print e range
 
     n =(int(input("Digite o número de termos:")))
     
