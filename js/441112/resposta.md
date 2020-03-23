@@ -8,7 +8,7 @@ Um possível solução, seria fazer um `while` na string conforme o seu tamanho 
       //Valor default de 5000
       size = size || 5000;
 
-      breakStr = [];
+      let breakStr = [];
 
       while (string.length > 0) {
         breakStr.push(string.substring(0,size));
