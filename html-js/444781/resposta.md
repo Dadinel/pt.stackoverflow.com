@@ -63,7 +63,6 @@ Corrigindo esses pontos, seu código ficará mais ou menos da seguinte forma:
     <head>
     	<title></title>
     	<meta charset="utf-8">
-    	<script src="script.js"></script>
     </head>
     <body>
       <form name="form" onsubmit="return validar()" action="entrou.html">
